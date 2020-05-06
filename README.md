@@ -1,4 +1,4 @@
 # Homepage
 My very own personal website. Basically this is just a résumé.
 
-🧙Hocus-pocus!
+You may visit https://homepage-resume.now.sh to see the website integration.
